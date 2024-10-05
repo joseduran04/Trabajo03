@@ -1,0 +1,8 @@
+Abre el archivo index.html desde tu explorador de archivos:
+Ubica el archivo index.html en tu computadora.
+Haz doble clic sobre el archivo o haz clic derecho y selecciona “Abrir con”
+y elige tu navegador preferido.
+Descripción de la Aplicación:
+La aplicación "Lista de Tareas" te permite agregar, visualizar y eliminar 
+tareas en una lista interactiva, además de marcar las tareas completadas. 
+Funciona de manera sencilla y no requiere ninguna instalación adicional.
